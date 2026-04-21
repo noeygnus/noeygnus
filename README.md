@@ -2,7 +2,8 @@ noeygnus
 
 ---
 <h3>👩🏻‍💻Tech Stack</h3>
-(https://skillicons.dev/icons?i=pythjon,django,js,html,css)(https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css)](https://skillicons.dev)
 
 #
 <h3>📋Activites</h3>
