@@ -1,5 +1,6 @@
-noeygnus
-
+<h3>noeygnus</h3>h3>
+- tjddus3171@naver.com
+  
 ---
 <h3>👩🏻‍💻Tech Stack</h3>
 
