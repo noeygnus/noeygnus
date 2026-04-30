@@ -4,7 +4,7 @@
 ---
 <h3>👩🏻‍💻Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,mysql,css&perline=3)](https://skillicons.dev)
 
 #
 <h3>📋Activites</h3>
