@@ -8,4 +8,4 @@
 
 #
 <h3>📋Activites</h3>
-2026-01 ~ SSAFY 15기
+SSAFY 15기 2026-01 ~
